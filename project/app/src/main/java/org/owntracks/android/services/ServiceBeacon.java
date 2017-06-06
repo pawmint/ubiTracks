@@ -300,7 +300,9 @@ public class ServiceBeacon implements ProxyableService, BeaconConsumer {
     void onEnterBackground() {
         if(beaconManager != null && beaconManager.isAnyConsumerBound()) {
             Log.v(TAG, "enabling background mode");
-            beaconManager.setBackgroundMode(true);
+	    //Avoid slow frequency of beacon events in background
+            //beaconManager.setBackgroundMode(true);		
+            beaconManager.setBackgroundMode(false);
         }
 
     }

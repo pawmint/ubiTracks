@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/firas/.android/build-cache/6e72700b6067b6d929b92f30355482e2b2eb1016/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

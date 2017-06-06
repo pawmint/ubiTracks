@@ -1,0 +1,465 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:2:1-232:12
+	package
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:4:5-36
+		INJECTED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:6:5-8:36
+	android:required
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:8:9-33
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:7:9-53
+uses-feature#0x00020000
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:9:5-11:35
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /home/firas/.android/build-cache/5b76ff780db32d9593df8f67aa5b77aed05aec93/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:11:9-32
+uses-feature#android.hardware.location.gps
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:13:5-89
+	android:required
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:13:64-87
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:13:19-63
+uses-permission#android.permission.INTERNET
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] /home/firas/.android/build-cache/e90b23764dbc5d34cf57c3a32cb7a3894c808019/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] /home/firas/.android/build-cache/d116f7f66f7eec01d6b048fee72cc11b3c8fae32/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /home/firas/.android/build-cache/5b76ff780db32d9593df8f67aa5b77aed05aec93/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /home/firas/.android/build-cache/5b76ff780db32d9593df8f67aa5b77aed05aec93/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:21:5-81
+MERGED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:23:5-68
+MERGED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:25:5-74
+MERGED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:25:22-71
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:27:5-29:11
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:28:9-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:32:5-100
+	tools:node
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:32:79-98
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:32:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:34:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:38:5-98
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:38:22-95
+application
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:41:5-230:19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] /home/firas/.android/build-cache/e90b23764dbc5d34cf57c3a32cb7a3894c808019/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] /home/firas/.android/build-cache/d116f7f66f7eec01d6b048fee72cc11b3c8fae32/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.6] /home/firas/.android/build-cache/1419b3216f4ab97240b158c03d3f557989bb503c/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.6] /home/firas/.android/build-cache/6e72700b6067b6d929b92f30355482e2b2eb1016/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /home/firas/.android/build-cache/5b76ff780db32d9593df8f67aa5b77aed05aec93/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/firas/.android/build-cache/4b5f9a193662c7b0da4a587b7b15270fb1379528/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/firas/.android/build-cache/752f501c204444b7d20bd13c38c8069a44abceec/output/AndroidManifest.xml:19:5-21:19
+MERGED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:21:5-40:19
+MERGED from [com.jakewharton.timber:timber:4.1.2] /home/firas/.android/build-cache/8275f1355efeea0f5f87afce755769dc58411156/output/AndroidManifest.xml:8:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] /home/firas/.android/build-cache/8e86efb04ffa0a25f902a040d600e90957ee0415/output/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] /home/firas/.android/build-cache/c6b7f36eaca688607ac0bb41075043a1d1c19f59/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-v13:25.3.1] /home/firas/.android/build-cache/482d2b54c27bf1a7c9a6a4eafc82735dc0956901/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/firas/.android/build-cache/ff93aaa7d279caebbeec4f2d1d9d24625539311c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/firas/.android/build-cache/f9d5f9dece79c0168e28f19ad9166726cde11c9f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/firas/.android/build-cache/ead3c2791e573239e172a188e6546893eb16f5e9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/firas/.android/build-cache/34bb1a028c790591ee70964d2b1dcc42f11f6f69/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/firas/.android/build-cache/61e39173ca5739109e6bcc0efd65bc7643a6ee1c/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/firas/.android/build-cache/336ffaa006da354b1bb7b85b1a293fb8c41d920b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/firas/.android/build-cache/dad7eb83799987107f8833bd637a585b4ba0beaa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/firas/.android/build-cache/da73e3de16e0babf6a3349e6c18367aa7e3ef81b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/firas/.android/build-cache/46dff86d92c38d5c5fd74104509e6d0c8f912bfa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/firas/.android/build-cache/c392380509b700b4b0a099455d7d8e60582ec9c7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/firas/.android/build-cache/4c54163a1599d02fa5e6e4d711e68ece0c4d23e3/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:45:9-41
+	android:hardwareAccelerated
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:46:9-43
+	android:allowBackup
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:43:9-35
+	android:icon
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:44:9-45
+	android:networkSecurityConfig
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:48:9-69
+	android:theme
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:47:9-47
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:42:9-28
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:50:9-52:71
+	android:value
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:52:13-68
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:51:13-58
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:54:9-56:51
+	android:value
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:56:13-48
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:55:13-59
+activity#org.owntracks.android.activities.ActivityRegions
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:58:9-61:46
+	android:label
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:60:13-59
+	android:launchMode
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:61:13-43
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:59:13-55
+activity#org.owntracks.android.activities.ActivityRegion
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:62:9-69:20
+	android:label
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:64:13-58
+	android:parentActivityName
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:65:13-69
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:63:13-54
+activity#org.owntracks.android.activities.ActivityPreferences
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:71:9-75:64
+	android:label
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:73:13-63
+	android:parentActivityName
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:75:13-61
+	android:hardwareAccelerated
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:74:13-47
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:72:13-59
+activity#org.owntracks.android.activities.ActivityPreferencesConnection
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:77:9-81:52
+	android:screenOrientation
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:81:13-49
+	android:label
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:80:13-54
+	android:configChanges
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:79:13-48
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:78:13-69
+activity#org.owntracks.android.ui.configuration.ConfigurationActivity
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:83:9-91:20
+	android:label
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:86:13-60
+	android:parentActivityName
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:87:13-73
+	android:configChanges
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:85:13-48
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:84:13-67
+activity#org.owntracks.android.ui.load.LoadActivity
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:94:9-152:20
+	android:label
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:98:13-56
+	android:launchMode
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:97:13-44
+	android:configChanges
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:96:13-48
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:95:13-49
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:101:13-111:29
+action#android.intent.action.VIEW
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:102:17-69
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:102:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:104:17-76
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:104:27-73
+data
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:106:17-110:48
+	android:host
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:107:21-37
+	android:scheme
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:110:21-45
+	android:pathPattern
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:109:21-57
+	android:mimeType
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:108:21-43
+provider#android.support.v4.content.FileProvider
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:154:9-162:20
+	android:authorities
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:156:13-69
+	android:grantUriPermissions
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:158:13-47
+	android:exported
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:157:13-37
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:155:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:159:13-161:53
+	android:resource
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:161:17-50
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:160:17-67
+service#org.owntracks.android.services.ServiceMessageHttpGcm
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:164:9-170:19
+	android:exported
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:166:13-36
+	android:permission
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:165:13-93
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:164:18-64
+intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:167:13-169:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:168:17-86
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:168:25-84
+service#org.owntracks.android.services.ServiceProxy
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:172:9-175:40
+	android:enabled
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:174:13-35
+	android:exported
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:175:13-37
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:173:13-50
+receiver#org.owntracks.android.support.receiver.BootCompleteReceiver
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:177:9-185:20
+	android:enabled
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:179:13-35
+	android:exported
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:180:13-36
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:178:13-66
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:181:13-184:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:182:17-79
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:182:25-76
+receiver#org.owntracks.android.support.receiver.ReceiverProxy
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:186:9-195:20
+	android:enabled
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:188:13-35
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:187:13-59
+intent-filter#org.owntracks.android.RECEIVER_ACTION_GEOFENCE_TRANSITION+org.owntracks.android.RECEIVER_ACTION_PING+org.owntracks.android.RECEIVER_ACTION_PUBLISH_LASTKNOWN+org.owntracks.android.RECEIVER_ACTION_RECONNECT
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:189:13-194:29
+action#org.owntracks.android.RECEIVER_ACTION_RECONNECT
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:190:17-90
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:190:25-87
+action#org.owntracks.android.RECEIVER_ACTION_PING
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:191:17-85
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:191:25-82
+action#org.owntracks.android.RECEIVER_ACTION_GEOFENCE_TRANSITION
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:192:17-100
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:192:25-97
+action#org.owntracks.android.RECEIVER_ACTION_PUBLISH_LASTKNOWN
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:193:17-98
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:193:25-95
+activity#org.owntracks.android.ui.status.StatusActivity
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:197:9-206:20
+	android:label
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:199:13-58
+	android:parentActivityName
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:202:13-61
+	android:launchMode
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:201:13-43
+	android:exported
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:200:13-36
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:198:13-53
+activity#org.owntracks.android.ui.contacts.ContactsActivity
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:207:9-212:20
+	android:clearTaskOnLaunch
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:209:13-45
+	android:label
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:210:13-60
+	android:launchMode
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:211:13-44
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:208:13-57
+activity#org.owntracks.android.ui.map.MapActivity
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:213:9-218:20
+	android:clearTaskOnLaunch
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:215:13-45
+	android:label
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:216:13-29
+	android:launchMode
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:217:13-44
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:214:13-47
+activity#org.owntracks.android.activities.ActivityWelcome
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:219:9-229:25
+	android:screenOrientation
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:222:13-49
+	android:label
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:221:13-45
+	android:configChanges
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:220:13-63
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:219:19-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:224:13-227:29
+action#android.intent.action.MAIN
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:225:17-69
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:225:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:226:17-77
+	android:name
+		ADDED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml:226:27-74
+uses-sdk
+INJECTED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] /home/firas/.android/build-cache/e90b23764dbc5d34cf57c3a32cb7a3894c808019/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] /home/firas/.android/build-cache/d116f7f66f7eec01d6b048fee72cc11b3c8fae32/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.6] /home/firas/.android/build-cache/1419b3216f4ab97240b158c03d3f557989bb503c/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.6] /home/firas/.android/build-cache/6e72700b6067b6d929b92f30355482e2b2eb1016/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /home/firas/.android/build-cache/5b76ff780db32d9593df8f67aa5b77aed05aec93/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/firas/.android/build-cache/4b5f9a193662c7b0da4a587b7b15270fb1379528/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/firas/.android/build-cache/752f501c204444b7d20bd13c38c8069a44abceec/output/AndroidManifest.xml:17:5-43
+MERGED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.timber:timber:4.1.2] /home/firas/.android/build-cache/8275f1355efeea0f5f87afce755769dc58411156/output/AndroidManifest.xml:6:5-44
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/firas/.android/build-cache/752989791754caf0f206e82cb420930ff7ab2e3d/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] /home/firas/.android/build-cache/8e86efb04ffa0a25f902a040d600e90957ee0415/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] /home/firas/.android/build-cache/c6b7f36eaca688607ac0bb41075043a1d1c19f59/output/AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:support-v13:25.3.1] /home/firas/.android/build-cache/482d2b54c27bf1a7c9a6a4eafc82735dc0956901/output/AndroidManifest.xml:21:5-23:55
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.1] /home/firas/.android/build-cache/87d269cd613b5228c2caec22f3c6899e9814263a/output/AndroidManifest.xml:12:5-14:41
+MERGED from [com.mikepenz:materialdrawer:5.9.1] /home/firas/.android/build-cache/98fad495f03ac3d3bf22870e15d3ed1778d2e993/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.3.1] /home/firas/.android/build-cache/ff93aaa7d279caebbeec4f2d1d9d24625539311c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/firas/.android/build-cache/f9d5f9dece79c0168e28f19ad9166726cde11c9f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/firas/.android/build-cache/ead3c2791e573239e172a188e6546893eb16f5e9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/firas/.android/build-cache/5937b325028f5de6b2a71da774267ad2c622bbaa/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/firas/.android/build-cache/34bb1a028c790591ee70964d2b1dcc42f11f6f69/output/AndroidManifest.xml:20:5-44
+MERGED from [com.mikepenz:iconics-core:2.8.4] /home/firas/.android/build-cache/26bf818fb2ca6ea0a7b6449c6bd2dc0ad625a127/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:2.5.2] /home/firas/.android/build-cache/6d88f111239a2420788b6daf424a648e7c7db4f1/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:1.0.1] /home/firas/.android/build-cache/12db7b2448102f1be96a10751d27f92da76160e8/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/firas/.android/build-cache/61e39173ca5739109e6bcc0efd65bc7643a6ee1c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.databinding:adapters:1.3.1] /home/firas/.android/build-cache/c402e82447e17a6c20f5e22aa76520861007524b/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /home/firas/.android/build-cache/34db6a6de09989c80401d93f3d9383d5ac659c87/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:25.3.1] /home/firas/.android/build-cache/336ffaa006da354b1bb7b85b1a293fb8c41d920b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/firas/.android/build-cache/dad7eb83799987107f8833bd637a585b4ba0beaa/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/firas/.android/build-cache/da73e3de16e0babf6a3349e6c18367aa7e3ef81b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/firas/.android/build-cache/46dff86d92c38d5c5fd74104509e6d0c8f912bfa/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/firas/.android/build-cache/c392380509b700b4b0a099455d7d8e60582ec9c7/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/firas/.android/build-cache/4c54163a1599d02fa5e6e4d711e68ece0c4d23e3/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.4.5] /home/firas/.android/build-cache/c6b7f36eaca688607ac0bb41075043a1d1c19f59/output/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/AndroidManifest.xml
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.2.6] /home/firas/.android/build-cache/e90b23764dbc5d34cf57c3a32cb7a3894c808019/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] /home/firas/.android/build-cache/d116f7f66f7eec01d6b048fee72cc11b3c8fae32/output/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.6] /home/firas/.android/build-cache/e90b23764dbc5d34cf57c3a32cb7a3894c808019/output/AndroidManifest.xml:20:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/firas/.android/build-cache/752f501c204444b7d20bd13c38c8069a44abceec/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/firas/.android/build-cache/752f501c204444b7d20bd13c38c8069a44abceec/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/firas/.android/build-cache/752f501c204444b7d20bd13c38c8069a44abceec/output/AndroidManifest.xml:20:20-65
+uses-permission-sdk-23
+ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:19:5-88
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:19:29-85
+receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
+ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:22:19-87
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:25:17-87
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:25:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:26:17-90
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:26:25-87
+service#org.altbeacon.beacon.service.BeaconService
+ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:30:9-35:38
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:32:13-35
+	android:label
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:33:13-37
+	android:isolatedProcess
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:31:13-70
+service#org.altbeacon.beacon.BeaconIntentProcessor
+ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.10] /home/firas/.android/build-cache/ee1872623dd11dbb78df1b82b35c441d1bf1df6b/output/AndroidManifest.xml:37:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] /home/firas/.android/build-cache/482d2b54c27bf1a7c9a6a4eafc82735dc0956901/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.1] /home/firas/.android/build-cache/ff93aaa7d279caebbeec4f2d1d9d24625539311c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/firas/.android/build-cache/f9d5f9dece79c0168e28f19ad9166726cde11c9f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/firas/.android/build-cache/ead3c2791e573239e172a188e6546893eb16f5e9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/firas/.android/build-cache/5937b325028f5de6b2a71da774267ad2c622bbaa/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/firas/.android/build-cache/34bb1a028c790591ee70964d2b1dcc42f11f6f69/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/firas/.android/build-cache/336ffaa006da354b1bb7b85b1a293fb8c41d920b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/firas/.android/build-cache/dad7eb83799987107f8833bd637a585b4ba0beaa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/firas/.android/build-cache/da73e3de16e0babf6a3349e6c18367aa7e3ef81b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/firas/.android/build-cache/46dff86d92c38d5c5fd74104509e6d0c8f912bfa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/firas/.android/build-cache/c392380509b700b4b0a099455d7d8e60582ec9c7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/firas/.android/build-cache/4c54163a1599d02fa5e6e4d711e68ece0c4d23e3/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] /home/firas/.android/build-cache/482d2b54c27bf1a7c9a6a4eafc82735dc0956901/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] /home/firas/.android/build-cache/482d2b54c27bf1a7c9a6a4eafc82735dc0956901/output/AndroidManifest.xml:26:9-47

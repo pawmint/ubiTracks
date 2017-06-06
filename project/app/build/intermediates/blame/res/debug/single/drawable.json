@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/md_btn_selected.xml",
+        "source": "/home/firas/.android/build-cache/c6b7f36eaca688607ac0bb41075043a1d1c19f59/output/res/drawable/md_btn_selected.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/md_transparent.xml",
+        "source": "/home/firas/.android/build-cache/c6b7f36eaca688607ac0bb41075043a1d1c19f59/output/res/drawable/md_transparent.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/firas/.android/build-cache/ff93aaa7d279caebbeec4f2d1d9d24625539311c/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/firas/.android/build-cache/ff93aaa7d279caebbeec4f2d1d9d24625539311c/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/firas/.android/build-cache/ff93aaa7d279caebbeec4f2d1d9d24625539311c/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/material_drawer_circle_mask.xml",
+        "source": "/home/firas/.android/build-cache/98fad495f03ac3d3bf22870e15d3ed1778d2e993/output/res/drawable/material_drawer_circle_mask.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/firas/.android/build-cache/ff93aaa7d279caebbeec4f2d1d9d24625539311c/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/cursor_white.xml",
+        "source": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/res/drawable/cursor_white.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/md_selector_dark.xml",
+        "source": "/home/firas/.android/build-cache/c6b7f36eaca688607ac0bb41075043a1d1c19f59/output/res/drawable/md_selector_dark.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_bottom.xml",
+        "source": "/home/firas/.android/build-cache/98fad495f03ac3d3bf22870e15d3ed1778d2e993/output/res/drawable/material_drawer_shadow_bottom.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/firas/.android/build-cache/ff93aaa7d279caebbeec4f2d1d9d24625539311c/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/glyph.png",
+        "source": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/res/drawable/glyph.png"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/md_btn_selected_dark.xml",
+        "source": "/home/firas/.android/build-cache/c6b7f36eaca688607ac0bb41075043a1d1c19f59/output/res/drawable/md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/md_btn_selector.xml",
+        "source": "/home/firas/.android/build-cache/c6b7f36eaca688607ac0bb41075043a1d1c19f59/output/res/drawable/md_btn_selector.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/md_item_selected.xml",
+        "source": "/home/firas/.android/build-cache/c6b7f36eaca688607ac0bb41075043a1d1c19f59/output/res/drawable/md_item_selected.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/selectable_row.xml",
+        "source": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/res/drawable/selectable_row.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/gray_circle.xml",
+        "source": "/home/firas/.android/build-cache/8e86efb04ffa0a25f902a040d600e90957ee0415/output/res/drawable/gray_circle.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/md_btn_selector_dark.xml",
+        "source": "/home/firas/.android/build-cache/c6b7f36eaca688607ac0bb41075043a1d1c19f59/output/res/drawable/md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/splash.xml",
+        "source": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/src/main/res/drawable/splash.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/md_selector.xml",
+        "source": "/home/firas/.android/build-cache/c6b7f36eaca688607ac0bb41075043a1d1c19f59/output/res/drawable/md_selector.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_top.xml",
+        "source": "/home/firas/.android/build-cache/98fad495f03ac3d3bf22870e15d3ed1778d2e993/output/res/drawable/material_drawer_shadow_top.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/md_item_selected_dark.xml",
+        "source": "/home/firas/.android/build-cache/c6b7f36eaca688607ac0bb41075043a1d1c19f59/output/res/drawable/md_item_selected_dark.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_right.9.png",
+        "source": "/home/firas/.android/build-cache/98fad495f03ac3d3bf22870e15d3ed1778d2e993/output/res/drawable/material_drawer_shadow_right.9.png"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/firas/.android/build-cache/1185e5d14a31194a2806e280b3527c58be4884c4/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/firas/.android/build-cache/25b73e7e44cfec02f80015b351abe46613236c2d/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/material_drawer_badge.xml",
+        "source": "/home/firas/.android/build-cache/98fad495f03ac3d3bf22870e15d3ed1778d2e993/output/res/drawable/material_drawer_badge.xml"
+    },
+    {
+        "merged": "/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_left.9.png",
+        "source": "/home/firas/.android/build-cache/98fad495f03ac3d3bf22870e15d3ed1778d2e993/output/res/drawable/material_drawer_shadow_left.9.png"
+    }
+]

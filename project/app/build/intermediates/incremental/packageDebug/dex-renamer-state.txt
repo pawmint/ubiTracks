@@ -1,7 +1,0 @@
-#Tue Jun 06 16:25:10 CEST 2017
-base.0=/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6ffc7569e787492b1326fe6083f17e0797bba432
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e6e557b308205a32d27bdefcdc24cfdfefb4dd8b/classes.dex
-base.1=/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e6e557b308205a32d27bdefcdc24cfdfefb4dd8b
-file.0=/home/firas/Documents/Firou_changed/PhD/dev/ubiTracks/project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6ffc7569e787492b1326fe6083f17e0797bba432/classes.dex
